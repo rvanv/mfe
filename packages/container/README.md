@@ -1,3 +1,3 @@
 ## README
 
-Run deploy script
+Run deploy script, again and again
