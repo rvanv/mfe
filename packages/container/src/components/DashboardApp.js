@@ -1,4 +1,3 @@
-
 import { mount } from 'dashboard/DashboardApp';
 import React, { useRef, useEffect } from 'react';
 
